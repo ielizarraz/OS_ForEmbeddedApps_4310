@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\iemon\source\repos\ECE4310RAIDHW\ECE4310RAIDHW\Source.cpp(66,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iemon\source\repos\ECE4310RAIDHW\ECE4310RAIDHW\Source.cpp(96,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iemon\source\repos\ECE4310RAIDHW\ECE4310RAIDHW\Source.cpp(121,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iemon\source\repos\ECE4310RAIDHW\ECE4310RAIDHW\Source.cpp(136,25): warning C4018: '<': signed/unsigned mismatch
+  ECE4310RAIDHW.vcxproj -> C:\Users\iemon\source\repos\ECE4310RAIDHW\x64\Debug\ECE4310RAIDHW.exe
